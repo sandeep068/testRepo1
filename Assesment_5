@@ -1,0 +1,29 @@
+Assessment:
+
+1) Create a blank git repository and push some files into that from laptop
+
+2) what is ansible?
+
+3) what is adhoc commands?
+
+4) what is playbooks in ansible?
+
+5) using terraform create 5 ec2 machines.
+
+6) Create a jenkins pipeline ...for the https://github.com/akshu20791/DevOpsClassCodes
+
+7) visualise the graphs in grafana via prometheus datasource
+
+8) implement ansible server - node architecture  (ref video : https://vimeo.com/699076693)
+
+9) What is devops and why do we need it?
+
+10) Create a job in jenkins to echo hello world
+create a new repository on the command line
+echo "# testRepo1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/sandeep068/testRepo1.git
+git push -u origin master
